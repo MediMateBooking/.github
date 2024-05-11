@@ -25,6 +25,12 @@ We welcome contributions from the Medical community to enhance our appointment s
 - ✨ Test your changes thoroughly with the eye of a wizard.
 - 🌈 Submit a pull request detailing your changes and any relevant enchantments.
 
+## 🛠️ Technology Stack
+
+- **Frontend:** HTML, CSS, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+
 ## 📞✉️ Support
 
 For any questions or issues regarding the Medical Appointment System, please contact our support team.
