@@ -1,4 +1,4 @@
-# 🌟✨🏥📅 Medical Appointment System 📅🏥✨🌟
+# 📅 Medical Appointment System 📅
 
 Welcome to the **Medical Appointment System** GitHub organization! This repository hosts the enchanted codebase for our whimsical medical appointment system, designed to simplify scheduling processes in healthcare. 🩺🪄
 
