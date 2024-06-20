@@ -1,10 +1,10 @@
 # 📅 Medimate 📅
 
-Welcome to the **MediMate** GitHub organization! This repository hosts the enchanted codebase for our whimsical medical appointment system, designed to simplify scheduling processes in healthcare. 🩺🪄
+Welcome to the **MediMate** GitHub organization! This repository provides the codebase of the "MediMate" system. That is designed to simplify scheduling processes in healthcare. 🩺🪄
 
 ## 🌟🌈 Overview
 
-Our Medical appointment system is a web-based application enchanted to optimize the scheduling workflow for both healthcare providers and patients. It offers features such as appointment scheduling, provider management, patient profiles, automated reminders, reporting, and robust security measures. 🚀✨
+Our Medical appointment system is a web-based application enchanted to optimize the scheduling workflow for both healthcare providers and patients. It offers features such as appointment scheduling, patient profiles, feedbacks and robust security measures. 🚀✨
 
 ## 🚀🌠 Getting Started
 
@@ -16,15 +16,6 @@ To embark on your magical journey with our system:
 4. 🏰 Run the application locally using the provided commands.
 5. 🌟 Access the application through your web browser.
 
-## 🤝🌌 Contributing
-
-We welcome contributions from the Medical community to enhance our appointment system. If you'd like to contribute:
-
-- 🧚‍♂️ Fork this repository and create a new enchanted branch for your changes.
-- 🌟 Make your modifications with the sparkles of creativity, adhering to our coding standards.
-- ✨ Test your changes thoroughly with the eye of a wizard.
-- 🌈 Submit a pull request detailing your changes and any relevant enchantments.
-
 ## 🛠️ Technology Stack
 
 - **Frontend:** HTML, CSS, Bootstrap
@@ -33,7 +24,7 @@ We welcome contributions from the Medical community to enhance our appointment s
 
 ## 📞✉️ Support
 
-For any questions or issues regarding the Medical Appointment System, please contact our support team.
+For any questions or issues regarding the Medical Appointment System, please contact us.
 
 ## 📝🔮 License
 
