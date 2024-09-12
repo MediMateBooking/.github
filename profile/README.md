@@ -11,7 +11,3 @@ Welcome to the **MediMate** GitHub organization! This repository provides the co
 - **Frontend:** HTML, CSS, Bootstrap
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-
-## 📝 License
-
-#### This project is enchanted under the [MIT License](LICENSE). May it bring magic to all who encounter it!
