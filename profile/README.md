@@ -1,4 +1,4 @@
-# 📅 Medimate 📅
+# Medimate 📅
 
 Welcome to the **MediMate** GitHub organization! This repository provides the codebase of the "MediMate" system. That is designed to simplify scheduling processes in healthcare. 🩺
 
@@ -11,3 +11,9 @@ Welcome to the **MediMate** GitHub organization! This repository provides the co
 - **Frontend:** HTML, CSS, Bootstrap
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
+
+## 
+
+![GitHub followers](https://img.shields.io/github/followers/MediMateBooking?style=social)
+
+##
